@@ -1,0 +1,71 @@
+body {
+	background-color: rgb(25, 140, 218);
+}
+
+img {
+    width: 90px;
+    height: 90px;
+    float: left;
+ }
+ 
+ #idCard {
+    border: 5px solid black;
+    border-radius: 20px;
+    background: rgb(231, 195, 37);
+    height: 14em;
+    width: 25em;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ h1 {
+     font-weight: bolder;
+     font-family: cursive;
+     position: relative;
+     text-align: center;
+ }
+
+ form {
+    font-weight: 100;
+    position: relative;
+    text-align: center;
+ }
+
+#btnClickMe {
+    background-color: #b8e612;
+    font-weight: bolder;
+    font-family: 'Lucida Sans';
+    margin: 10px 0 100px 0;
+}
+
+#postFullName {
+    font-family: 'Trebuchet MS';
+    font-size: 30px;
+    float: left;
+    font-weight: bolder;
+    margin: 25px 5px 30px 50px;
+}
+
+#postAge {
+    font-family: cursive;
+    font-weight: 500;
+    font-size: 15px;
+    margin: 100px 5px 5px 17px;
+}
+
+#postPhoneNumber {
+    float: left;
+    font-family: cursive;
+    font-weight: 500;
+    font-size: 15px;
+    margin: 10px 50px 0px 17px;
+}
+
+#postAddress {
+    float: left;
+    font-family: cursive;
+    font-weight: 500;
+    font-size: 15px;
+    margin: 10px 50px 0px 17px;
+}
